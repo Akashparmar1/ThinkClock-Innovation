@@ -1,0 +1,6 @@
+id,name,email,phone,unique_id
+1,Alice,alice@email.com,1234567890,1
+2,Bob,bob@email.com,9876543210,2
+3,Alice,alice@email.com,1234567890,1
+4,Charlie,charlie@email.com,5556667777,4
+5,Bob,bob@email.com,9876543210,2
